@@ -27,3 +27,5 @@
 ### Используемые программы (***навыки***):
 
 *Blender, КОМПАС-3D, Fusion 360, Substance Painter, VS2022, VS Code, Unity, Atom*
+
+[Простой личный сайт-проект](https://zandrex.pythonanywhere.com/)
