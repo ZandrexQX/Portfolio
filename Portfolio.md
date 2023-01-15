@@ -39,3 +39,7 @@
 *Blender, КОМПАС-3D, Fusion 360, Substance Painter, VS2022, VS Code, Unity, Atom*
 
 [Простой личный сайт-проект](https://zandrex.pythonanywhere.com/)
+
+### Планы
+
+Телеграм-бот на Python, сайт на Django, парсинг сайтов, освежить знания на Unity, попробовать движок Godot, сделать игру/программу на Python.
